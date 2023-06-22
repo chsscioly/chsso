@@ -35,7 +35,7 @@ body {
 
 .iframe-container{
   position: relative;
-  width: 75%;
+  width: 25%;
   padding-bottom: 56.25%; 
   height: 0;
 }
@@ -43,8 +43,8 @@ body {
   position: absolute;
   top:0;
   left: 0;
-  width: 75%;
-  height: 75%;
+  width: 50%;
+  height: 50%;
 }
 
 
